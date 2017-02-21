@@ -1,0 +1,5 @@
+ID:1029243
+KEY:3929053b025d732d84d88642396cf023acbbd9f5641c06dde9ca54338432d8d1
+DeviceName: /dev/ttyUSB0
+BaudRate: 230400
+Version: versionM100_31
